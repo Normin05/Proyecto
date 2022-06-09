@@ -16,3 +16,9 @@ string nombre, apellido, mes, correo, contraseña, c_contraseña;
 
             Console.WriteLine("año");
             año = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Digite su correo");
+            correo = Console.ReadLine();
+
+            Console.WriteLine("Digite su contraseña");
+            contraseña = Console.ReadLine();

@@ -22,3 +22,9 @@ string nombre, apellido, mes, correo, contraseña, c_contraseña;
 
             Console.WriteLine("Digite su contraseña");
             contraseña = Console.ReadLine();
+
+  Console.WriteLine("Verifique su contraseña");
+            c_contraseña = Console.ReadLine();
+
+            Console.ReadKey();
+            
